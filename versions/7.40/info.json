@@ -1,0 +1,7 @@
+{
+ "patch": "7.40",
+ "date": "2025-12-15",
+ "map_sha1": "cb69e349d9852f3d0fb9ba2c6088ca1472b7cae7",
+ "manifest": "657808123125198041",
+ "changes": "trees +239 −293; camps moved: 9; towers moved: 1; watchers +4 −8; wisdom shrines moved: 2"
+}

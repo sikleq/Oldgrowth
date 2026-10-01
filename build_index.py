@@ -36,13 +36,19 @@ def load():
 
 
 def table(rows):
-    head = "| Patch | Date | Map | " + " | ".join(c for c, _ in COLUMNS) + " |"
-    sep = "|" + "---|" * (3 + len(COLUMNS))
+    head = "| Patch | Date | Map | " + " | ".join(c for c, _ in COLUMNS) + " | What moved since the patch before |"
+    sep = "|" + "---|" * (4 + len(COLUMNS))
     lines = [head, sep]
     for r in reversed(rows):
         c = r["counts"] or {}
-        pic = f"same as {r['same_as']}" if r.get("same_as") else f"[picture](versions/{r['patch']}/map.webp)"
-        lines.append(f"| {r['patch']} | {r['date']} | {pic} | " + " | ".join(str(c.get(k, "")) for _, k in COLUMNS) + " |")
+        if r.get("same_as"):
+            pic, moved = f"same file as {r['same_as']}", "the same map file"
+        else:
+            has = os.path.exists(os.path.join(HERE, "versions", r["patch"], "map.webp"))
+            pic = f"[picture](versions/{r['patch']}/map.webp)" if has else "rendering"
+            moved = r.get("changes", "")
+        lines.append(f"| {r['patch']} | {r['date']} | {pic} | " + " | ".join(str(c.get(k, "")) for _, k in COLUMNS)
+                     + f" | {moved} |")
     return "\n".join(lines)
 
 

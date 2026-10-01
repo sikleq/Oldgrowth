@@ -1,0 +1,7 @@
+{
+ "patch": "7.38c",
+ "date": "2025-03-27",
+ "map_sha1": "f6860ab2ab40b08e22cc44a5bd7677bd6a895490",
+ "manifest": "2641436308841194949",
+ "changes": "trees +152 −130; camps moved: 2; towers moved: 1; watchers moved: 1"
+}
