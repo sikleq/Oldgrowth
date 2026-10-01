@@ -1,0 +1,37 @@
+[
+ {
+  "patch": "7.41f",
+  "date": "2026-09-15",
+  "map_sha1": "412137a154d86cd4ba61da98692a5fb15e1cb79a",
+  "manifest": "3074137983983757042",
+  "counts": {
+   "ent_dota_tree": 2475,
+   "ent_dota_fountain": 2,
+   "ent_dota_shop": 4,
+   "npc_dota_fort": 2,
+   "npc_dota_watch_tower": 2,
+   "npc_dota_lantern": 10,
+   "npc_dota_unit_twin_gate": 2,
+   "npc_dota_xp_fountain": 2,
+   "npc_dota_lotus_pool": 2,
+   "npc_dota_mango_tree": 0,
+   "npc_dota_healer": 0,
+   "dota_item_rune_spawner_bounty": 2,
+   "dota_item_rune_spawner_powerup": 2,
+   "dota_item_rune_spawner_xp": 0,
+   "npc_dota_tower": 22,
+   "npc_dota_barracks": 12,
+   "npc_dota_filler": 14,
+   "npc_dota_neutral_spawner": 28,
+   "npc_dota_roshan_spawner": 2,
+   "npc_dota_miniboss_spawner": 2,
+   "trigger_multiple": 28,
+   "camps_by_type": {
+    "0": 6,
+    "1": 14,
+    "2": 6,
+    "3": 2
+   }
+  }
+ }
+]
