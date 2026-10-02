@@ -1,9 +1,46 @@
 [
  {
+  "patch": "7.37e",
+  "date": "2024-11-19",
+  "map_sha1": "7216d111ee7fff178a74d59469bc0e47cdf2dd1e",
+  "manifest": "1345310537450616963",
+  "changes": "",
+  "counts": {
+   "ent_dota_tree": 2531,
+   "ent_dota_fountain": 2,
+   "ent_dota_shop": 4,
+   "npc_dota_fort": 2,
+   "npc_dota_watch_tower": 4,
+   "npc_dota_lantern": 10,
+   "npc_dota_unit_twin_gate": 2,
+   "npc_dota_xp_fountain": 0,
+   "npc_dota_lotus_pool": 0,
+   "npc_dota_mango_tree": 2,
+   "npc_dota_healer": 0,
+   "dota_item_rune_spawner_bounty": 2,
+   "dota_item_rune_spawner_powerup": 2,
+   "dota_item_rune_spawner_xp": 2,
+   "npc_dota_tower": 22,
+   "npc_dota_barracks": 12,
+   "npc_dota_filler": 14,
+   "npc_dota_neutral_spawner": 28,
+   "npc_dota_roshan_spawner": 2,
+   "npc_dota_miniboss_spawner": 2,
+   "trigger_multiple": 28,
+   "camps_by_type": {
+    "0": 4,
+    "1": 8,
+    "2": 12,
+    "3": 4
+   }
+  }
+ },
+ {
   "patch": "7.38",
   "date": "2025-02-19",
   "map_sha1": "cf2153b02ef1015702d0156232684d247ef55ac8",
   "manifest": "8462328194443705126",
+  "changes": "trees +1017 \u22121052; camps moved: 21; lotus pools moved: 2; twin gates moved: 2; Tormentors moved: 2; bounty runes moved: 2; wisdom shrines +2 \u22120; wisdom runes +0 \u22122; outposts +0 \u22122; watchers +14 \u221210; Roshan pits moved: 2",
   "counts": {
    "ent_dota_tree": 2496,
    "ent_dota_fountain": 2,

@@ -43,7 +43,8 @@ says which patch it matches.
 | 7.39 | 2025-05-21 | [picture](versions/7.39/map.webp) | 2502 | 28 | 22 | 2 | 14 | 2 | 2 | 2 | trees +290 −297; camps moved: 5; towers moved: 4; watchers moved: 1; lotus pools moved: 2; Roshan pits moved: 2; bounty runes moved: 1 |
 | 7.38c | 2025-03-27 | [picture](versions/7.38c/map.webp) | 2509 | 28 | 22 | 2 | 14 | 2 | 2 | 2 | trees +152 −130; camps moved: 2; towers moved: 1; watchers moved: 1 |
 | 7.38b | 2025-03-05 | [picture](versions/7.38b/map.webp) | 2487 | 28 | 22 | 2 | 14 | 2 | 2 | 2 | trees +2 −11 |
-| 7.38 | 2025-02-19 | [picture](versions/7.38/map.webp) | 2496 | 28 | 22 | 2 | 14 | 2 | 2 | 2 |  |
+| 7.38 | 2025-02-19 | [picture](versions/7.38/map.webp) | 2496 | 28 | 22 | 2 | 14 | 2 | 2 | 2 | trees +1017 −1052; camps moved: 21; lotus pools moved: 2; twin gates moved: 2; Tormentors moved: 2; bounty runes moved: 2; wisdom shrines +2 −0; wisdom runes +0 −2; outposts +0 −2; watchers +14 −10; Roshan pits moved: 2 |
+| 7.37e | 2024-11-19 | [picture](versions/7.37e/map.webp) | 2531 | 28 | 22 | 4 | 10 | 0 | 0 | 2 |  |
 <!-- TABLE END -->
 
 ## How it is made
