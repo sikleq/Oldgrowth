@@ -58,13 +58,16 @@ says which patch it matches.
    Maps older than 7.41 are rendered on the game as it was before 7.41 (the build of 2026-03-16, every depot
    brought back to that day): 7.41 reworked the water, and today's game draws older maps' rivers as maroon
    triangles.
+   7.39's map file holds two "templar gates" (`npc_dota_unit_templar_gate`, the Twin Gate model with another
+   skin) that no patch note mentions and 7.39b removed; that build has no texture for them, so they came out
+   pink. They are replaced by the ground of the 7.39b picture, which is unchanged there.
 3. **The objects.** The map file's entity lumps are decompiled with
    [ValveResourceFormat](https://github.com/ValveResourceFormat/ValveResourceFormat) (Source2Viewer) and every
    object of interest is listed with its position; camp boxes come from their trigger hulls.
 
 The scripts are in [sikleq/Sloppy](https://github.com/sikleq/Sloppy) — `scripts/gen/map_history.py`,
-`scripts/gen/stitch_sfm.py`, `scripts/gen/extract_map_entities.py` — and the method is written up in its
-`docs/terrain.md`.
+`scripts/gen/stitch_sfm.py`, `scripts/gen/mend_map.py`, `scripts/gen/extract_map_entities.py` — and the method is
+written up in its `docs/terrain.md`. Sloppy's Terrain pages compare every patch's map with the one before it.
 
 ## Thanks
 
