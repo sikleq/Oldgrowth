@@ -13,6 +13,8 @@ versions/<patch>/map.webp      the whole map, 4096 × 4096, top-down
 versions/<patch>/mapdata.json  every map object with its position, read from the map file
 versions/<patch>/info.json     the patch's date and the exact map file it shipped
 versions.json                  all of the above in one table
+tiles/<patch>/<row>_<col>.webp the map at 8192 × 8192 in 16 × 16 tiles, for zooming in (Sloppy's Terrain pages
+                               load them from https://sikleq.github.io/Oldgrowth/)
 ```
 
 Full-size pictures (about 10000 × 10400, 2 game units per pixel) are attached to the
