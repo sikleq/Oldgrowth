@@ -64,9 +64,9 @@ says which patch it matches.
 | 7.34 | 2023-08-08 | [picture](versions/7.34/map.webp) | 2535 | 28 | 22 | 4 | 8 | 0 | 0 | 2 | trees +0 −1; outposts moved: 2; watchers moved: 4 |
 | 7.33e | 2023-07-13 | same file as 7.33c | 2536 | 28 | 22 | 4 | 8 | 0 | 0 | 2 | the same map file |
 | 7.33d | 2023-06-15 | same file as 7.33c | 2536 | 28 | 22 | 4 | 8 | 0 | 0 | 2 | the same map file |
-| 7.33c | 2023-05-13 | rendering | 2536 | 28 | 22 | 4 | 8 | 0 | 0 | 2 | trees +57 −84 |
-| 7.33b | 2023-04-25 | rendering | 2563 | 28 | 22 | 4 | 8 | 0 | 0 | 2 | no object moved (the map file still changed) |
-| 7.33 | 2023-04-20 | rendering | 2563 | 28 | 22 | 4 | 8 | 0 | 0 | 2 | trees +1838 −1578; camps +24 −12; camp tiers changed: 3; camp spawn boxes +24 −12; towers moved: 3; lotus pools +2 −0; twin gates +2 −0; Tormentors +2 −0; bounty runes moved: 2; wisdom runes +2 −0; outposts +4 −2; watchers +8 −0; Roshan pits +2 −1 |
+| 7.33c | 2023-05-13 | [picture](versions/7.33c/map.webp) | 2536 | 28 | 22 | 4 | 8 | 0 | 0 | 2 | trees +57 −84 |
+| 7.33b | 2023-04-25 | [picture](versions/7.33b/map.webp) | 2563 | 28 | 22 | 4 | 8 | 0 | 0 | 2 | no object moved (the map file still changed) |
+| 7.33 | 2023-04-20 | [picture](versions/7.33/map.webp) | 2563 | 28 | 22 | 4 | 8 | 0 | 0 | 2 | trees +1838 −1578; camps +24 −12; camp tiers changed: 3; camp spawn boxes +24 −12; towers moved: 3; lotus pools +2 −0; twin gates +2 −0; Tormentors +2 −0; bounty runes moved: 2; wisdom runes +2 −0; outposts +4 −2; watchers +8 −0; Roshan pits +2 −1 |
 <!-- TABLE END -->
 
 ## How it is made
