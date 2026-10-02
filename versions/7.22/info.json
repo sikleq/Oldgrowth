@@ -1,0 +1,7 @@
+{
+ "patch": "7.22",
+ "date": "2019-05-24",
+ "map_sha1": "227f96d66666bb97ea5ca02d8be3585ebdac9caf",
+ "manifest": "2168385211803155468",
+ "changes": "trees +54 −53; camps moved: 3; camp spawn boxes changed: 5; towers moved: 1; bounty runes moved: 1"
+}

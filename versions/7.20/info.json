@@ -1,0 +1,7 @@
+{
+ "patch": "7.20",
+ "date": "2018-11-19",
+ "map_sha1": "4972ab7ee59041ab1b4a7e683861834eccf3d67a",
+ "manifest": "4317020349989818782",
+ "changes": "trees +414 −412; camps moved: 11; camp tiers changed: 4; camp spawn boxes changed: 14; towers moved: 3; bounty runes moved: 2"
+}

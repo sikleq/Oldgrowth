@@ -1,0 +1,7 @@
+{
+ "patch": "7.24",
+ "date": "2020-01-26",
+ "map_sha1": "0af1f34e7b40b7d325003e17c925efdc4866ce67",
+ "manifest": "3516261167327059577",
+ "changes": "trees +51 −46; camps moved: 1; camp spawn boxes changed: 1; bounty runes moved: 2; outposts moved: 2"
+}

@@ -1,0 +1,7 @@
+{
+ "patch": "7.15",
+ "date": "2018-05-10",
+ "map_sha1": "628a5cb78deb96e938949df6a2723d96619a5780",
+ "manifest": "4500073631939931004",
+ "changes": "trees +1 −5; camp spawn boxes changed: 4; towers moved: 2; bounty runes moved: 1; power runes moved: 2"
+}

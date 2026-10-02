@@ -1,0 +1,7 @@
+{
+ "patch": "7.32",
+ "date": "2022-08-24",
+ "map_sha1": "7aa576093de6edded17f422b18ab67785f66b852",
+ "manifest": "2157169133715558323",
+ "changes": "trees +57 −44; camps +0 −2; camp spawn boxes +1 −3; bounty runes moved: 1; outposts moved: 1"
+}

@@ -1,0 +1,7 @@
+{
+ "patch": "7.27",
+ "date": "2020-06-28",
+ "map_sha1": "d89fa97add64c691937514bd22a1f92ee6fe7bba",
+ "manifest": "851122828342522204",
+ "changes": "trees +5 −6; camps moved: 1; camp tiers changed: 5; camp spawn boxes changed: 3"
+}

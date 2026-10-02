@@ -1,0 +1,7 @@
+{
+ "patch": "7.29",
+ "date": "2021-04-09",
+ "map_sha1": "4859e1328522b2e3ac6444aa70527b0967fba515",
+ "manifest": "5653628556015868344",
+ "changes": "trees +734 −548; camps moved: 15; camp tiers changed: 2; camp spawn boxes changed: 16; towers moved: 5; bounty runes +1 −3; power runes moved: 2; outposts moved: 2"
+}
