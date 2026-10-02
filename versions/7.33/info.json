@@ -1,0 +1,7 @@
+{
+ "patch": "7.33",
+ "date": "2023-04-20",
+ "map_sha1": "6249be51486df74a2cd0bab97f7ffca956a9a4a1",
+ "manifest": "7316697368872006602",
+ "changes": "trees +1838 −1578; camps +24 −12; camp tiers changed: 3; camp spawn boxes +24 −12; towers moved: 3; lotus pools +2 −0; twin gates +2 −0; Tormentors +2 −0; bounty runes moved: 2; wisdom runes +2 −0; outposts +4 −2; watchers +8 −0; Roshan pits +2 −1"
+}
