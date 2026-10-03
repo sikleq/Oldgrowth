@@ -70,30 +70,30 @@ says which patch it matches.
 | 7.32e | 2023-03-07 | [picture](versions/7.32e/map.webp) | 2303 | 16 | 22 | 2 | 0 | 0 | 0 | 0 | no object moved (the map file still changed) |
 | 7.32d | 2022-11-29 | same file as 7.32b | 2303 | 16 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
 | 7.32c | 2022-09-27 | same file as 7.32b | 2303 | 16 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
-| 7.32b | 2022-08-30 | rendering | 2303 | 16 | 22 | 2 | 0 | 0 | 0 | 0 | no object moved (the map file still changed) |
-| 7.32 | 2022-08-24 | rendering | 2303 | 16 | 22 | 2 | 0 | 0 | 0 | 0 | trees +57 −44; camps +0 −2; camp spawn boxes +1 −3; bounty runes moved: 1; outposts moved: 1 |
-| 7.31d | 2022-06-08 | rendering | 2290 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | no object moved (the map file still changed) |
+| 7.32b | 2022-08-30 | [picture](versions/7.32b/map.webp) | 2303 | 16 | 22 | 2 | 0 | 0 | 0 | 0 | no object moved (the map file still changed) |
+| 7.32 | 2022-08-24 | [picture](versions/7.32/map.webp) | 2303 | 16 | 22 | 2 | 0 | 0 | 0 | 0 | trees +57 −44; camps +0 −2; camp spawn boxes +1 −3; bounty runes moved: 1; outposts moved: 1 |
+| 7.31d | 2022-06-08 | [picture](versions/7.31d/map.webp) | 2290 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | no object moved (the map file still changed) |
 | 7.31c | 2022-05-04 | same file as 7.31 | 2290 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
 | 7.31b | 2022-02-28 | same file as 7.31 | 2290 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
-| 7.31 | 2022-02-23 | rendering | 2290 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | trees +4 −0; towers moved: 2; bounty runes moved: 2 |
+| 7.31 | 2022-02-23 | [picture](versions/7.31/map.webp) | 2290 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | trees +4 −0; towers moved: 2; bounty runes moved: 2 |
 | 7.30e | 2021-10-28 | same file as 7.29d | 2286 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
 | 7.30d | 2021-09-25 | same file as 7.29d | 2286 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
 | 7.30c | 2021-09-11 | same file as 7.29d | 2286 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
 | 7.30b | 2021-08-23 | same file as 7.29d | 2286 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
 | 7.30 | 2021-08-18 | same file as 7.29d | 2286 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
-| 7.29d | 2021-05-24 | rendering | 2286 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | no object moved (the map file still changed) |
-| 7.29c | 2021-04-29 | rendering | 2286 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | trees +6 −5 |
-| 7.29b | 2021-04-16 | rendering | 2285 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | trees +5 −10 |
-| 7.29 | 2021-04-09 | rendering | 2290 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | trees +734 −548; camps moved: 15; camp tiers changed: 2; camp spawn boxes changed: 16; towers moved: 5; bounty runes +1 −3; power runes moved: 2; outposts moved: 2 |
-| 7.28c | 2021-02-19 | rendering | 2104 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | no object moved (the map file still changed) |
-| 7.28b | 2021-01-10 | rendering | 2104 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | no object moved (the map file still changed) |
+| 7.29d | 2021-05-24 | [picture](versions/7.29d/map.webp) | 2286 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | no object moved (the map file still changed) |
+| 7.29c | 2021-04-29 | [picture](versions/7.29c/map.webp) | 2286 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | trees +6 −5 |
+| 7.29b | 2021-04-16 | [picture](versions/7.29b/map.webp) | 2285 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | trees +5 −10 |
+| 7.29 | 2021-04-09 | [picture](versions/7.29/map.webp) | 2290 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | trees +734 −548; camps moved: 15; camp tiers changed: 2; camp spawn boxes changed: 16; towers moved: 5; bounty runes +1 −3; power runes moved: 2; outposts moved: 2 |
+| 7.28c | 2021-02-19 | [picture](versions/7.28c/map.webp) | 2104 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | no object moved (the map file still changed) |
+| 7.28b | 2021-01-10 | [picture](versions/7.28b/map.webp) | 2104 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | no object moved (the map file still changed) |
 | 7.28a | 2020-12-22 | same file as 7.28 | 2104 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
-| 7.28 | 2020-12-17 | rendering | 2104 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | trees +1 −3 |
+| 7.28 | 2020-12-17 | [picture](versions/7.28/map.webp) | 2104 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | trees +1 −3 |
 | 7.27d | 2020-08-26 | same file as 7.27 | 2106 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
 | 7.27c | 2020-07-17 | same file as 7.27 | 2106 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
 | 7.27b | 2020-07-15 | same file as 7.27 | 2106 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
 | 7.27a | 2020-07-04 | same file as 7.27 | 2106 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
-| 7.27 | 2020-06-28 | rendering | 2106 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | trees +5 −6; camps moved: 1; camp tiers changed: 5; camp spawn boxes changed: 3 |
+| 7.27 | 2020-06-28 | [picture](versions/7.27/map.webp) | 2106 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | trees +5 −6; camps moved: 1; camp tiers changed: 5; camp spawn boxes changed: 3 |
 | 7.26c | 2020-05-02 | same file as 7.25 | 2107 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
 | 7.26b | 2020-04-28 | same file as 7.25 | 2107 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
 | 7.26a | 2020-04-21 | same file as 7.25 | 2107 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
@@ -101,11 +101,11 @@ says which patch it matches.
 | 7.25c | 2020-04-06 | same file as 7.25 | 2107 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
 | 7.25b | 2020-03-25 | same file as 7.25 | 2107 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
 | 7.25a | 2020-03-18 | same file as 7.25 | 2107 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
-| 7.25 | 2020-03-17 | rendering | 2107 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | trees moved: 4 |
-| 7.24b | 2020-02-26 | rendering | 2107 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | no object moved (the map file still changed) |
-| 7.24 | 2020-01-26 | rendering | 2107 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | trees +51 −46; camps moved: 1; camp spawn boxes changed: 1; bounty runes moved: 2; outposts moved: 2 |
-| 7.23f | 2020-01-07 | rendering | 2102 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | no object moved (the map file still changed) |
-| 7.23e | 2019-12-14 | rendering | 2102 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | no object moved (the map file still changed) |
+| 7.25 | 2020-03-17 | [picture](versions/7.25/map.webp) | 2107 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | trees moved: 4 |
+| 7.24b | 2020-02-26 | [picture](versions/7.24b/map.webp) | 2107 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | no object moved (the map file still changed) |
+| 7.24 | 2020-01-26 | [picture](versions/7.24/map.webp) | 2107 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | trees +51 −46; camps moved: 1; camp spawn boxes changed: 1; bounty runes moved: 2; outposts moved: 2 |
+| 7.23f | 2020-01-07 | [picture](versions/7.23f/map.webp) | 2102 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | no object moved (the map file still changed) |
+| 7.23e | 2019-12-14 | [picture](versions/7.23e/map.webp) | 2102 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | no object moved (the map file still changed) |
 | 7.23d | 2019-12-11 | same file as 7.23c | 2102 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
 | 7.23c | 2019-12-06 | rendering | 2102 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | no object moved (the map file still changed) |
 | 7.23b | 2019-11-29 | same file as 7.23 | 2102 | 18 | 22 | 2 | 0 | 0 | 0 | 0 | the same map file |
