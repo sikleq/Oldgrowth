@@ -1,4 +1,7 @@
-"""versions.json and the README table from versions/<patch>/{info,mapdata}.json.
+"""versions.json from versions/<patch>/{info,mapdata}.json.
+
+The README no longer carries a per-patch table (the owner 2026-10-04: removed); the counts live in
+versions.json, and Sloppy's Terrain Stats page draws them.
 
 info.json: {"patch", "date" (YYYY-MM-DD), "map_sha1", "manifest"} — optionally "same_as": the patch whose map file
 this one shipped unchanged (then the folder holds only info.json).
@@ -10,9 +13,6 @@ import os
 import re
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-COLUMNS = (("Trees", "ent_dota_tree"), ("Camps", "npc_dota_neutral_spawner"), ("Towers", "npc_dota_tower"),
-           ("Outposts", "npc_dota_watch_tower"), ("Watchers", "npc_dota_lantern"), ("Lotus pools", "npc_dota_lotus_pool"),
-           ("Wisdom shrines", "npc_dota_xp_fountain"), ("Twin gates", "npc_dota_unit_twin_gate"))
 
 
 def _key(v):
@@ -35,33 +35,11 @@ def load():
     return rows
 
 
-def table(rows):
-    head = "| Patch | Date | Map | " + " | ".join(c for c, _ in COLUMNS) + " | What moved since the patch before |"
-    sep = "|" + "---|" * (4 + len(COLUMNS))
-    lines = [head, sep]
-    for r in reversed(rows):
-        c = r["counts"] or {}
-        if r.get("same_as"):
-            pic, moved = f"same file as {r['same_as']}", "the same map file"
-        else:
-            has = os.path.exists(os.path.join(HERE, "versions", r["patch"], "map.webp"))
-            pic = f"[picture](versions/{r['patch']}/map.webp)" if has else "rendering"
-            moved = r.get("changes", "")
-        lines.append(f"| {r['patch']} | {r['date']} | {pic} | " + " | ".join(str(c.get(k, "")) for _, k in COLUMNS)
-                     + f" | {moved} |")
-    return "\n".join(lines)
-
-
 def main():
     rows = load()
     with open(os.path.join(HERE, "versions.json"), "w", encoding="utf-8") as f:
         json.dump(rows, f, indent=1)
         f.write("\n")
-    readme = os.path.join(HERE, "README.md")
-    s = open(readme, encoding="utf-8").read()
-    a, b = s.index("<!-- TABLE START -->"), s.index("<!-- TABLE END -->")
-    s = s[:a] + "<!-- TABLE START -->\n" + table(rows) + "\n" + s[b:]
-    open(readme, "w", encoding="utf-8", newline="\n").write(s)
     print(len(rows), "patches")
 
 
