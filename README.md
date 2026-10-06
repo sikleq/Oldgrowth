@@ -9,7 +9,10 @@ It feeds the Terrain pages of [Sloppy](https://sikleq.github.io/Sloppy/) and is 
 
 ```
 versions/<patch>/map.webp      the whole map, 4096 × 4096, top-down
-versions/<patch>/mapdata.json  every map object with its position, read from the map file
+versions/<patch>/mapdata.json  every map object with its position, read from the map file — and the map's layers:
+                               lane creep paths, river currents (spline, radius and strength of each node), shop,
+                               no-ward and Roshan pit zones, hero and courier spawn points
+versions/<patch>/entities.json.gz  the map file's FULL entity list as decompiled, every class and key
 versions/<patch>/info.json     the patch's date and the exact map file it shipped
 versions.json                  all of the above in one table
 tiles/<patch>/<row>_<col>.webp the map at 8192 × 8192 in 16 × 16 tiles, for zooming in (Sloppy's Terrain pages
@@ -41,10 +44,15 @@ When a patch shipped the very same map file as an earlier one, its folder holds 
    pink. They are replaced by the ground of the 7.39b picture, which is unchanged there.
 3. **The objects.** The map file's entity lumps are decompiled with
    [ValveResourceFormat](https://github.com/ValveResourceFormat/ValveResourceFormat) (Source2Viewer) and every
-   object of interest is listed with its position; camp boxes come from their trigger hulls.
+   object of interest is listed with its position; camp boxes and the other zones come from their trigger hulls.
+   Lane paths follow each creep spawner's chain of `path_corner`s. A river current
+   (`dota_movespeed_modifier_path`) is a spline of nodes in the entity's own frame (turned by its yaw), each with
+   in / out tangents, a radius (the reach of its speed bonus, bank to bank) and a strength (2 strong, 1 moderate).
+   `entities.json.gz` keeps everything else too, as Source2Viewer gives it (`_lump` names the entity lump).
 
 The scripts are in [sikleq/Sloppy](https://github.com/sikleq/Sloppy) — `scripts/gen/map_history.py`,
-`scripts/gen/stitch_sfm.py`, `scripts/gen/mend_map.py`, `scripts/gen/extract_map_entities.py` — and the method is
+`scripts/gen/stitch_sfm.py`, `scripts/gen/mend_map.py`, `scripts/gen/extract_map_entities.py`,
+`scripts/gen/oldgrowth_mapdata.py` — and the method is
 written up in its `docs/terrain.md`. Sloppy's Terrain pages compare every patch's map with the one before it.
 
 ## Thanks
