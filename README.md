@@ -45,6 +45,9 @@ When a patch shipped the very same map file as an earlier one, its folder holds 
 3. **The objects.** The map file's entity lumps are decompiled with
    [ValveResourceFormat](https://github.com/ValveResourceFormat/ValveResourceFormat) (Source2Viewer) and every
    object of interest is listed with its position; camp boxes and the other zones come from their trigger hulls.
+   A zone (shop, no-ward, Roshan pit) is each hull's real footprint — the convex outline of its vertices, turned by
+   the entity's yaw — one polygon per hull, `volume` naming the entity it belongs to (a fountain's shop is three
+   hulls; the 7.41 secret shop is an octagon). Camp boxes are true rectangles.
    Lane paths follow each creep spawner's chain of `path_corner`s. A river current
    (`dota_movespeed_modifier_path`) is a spline of nodes in the entity's own frame (turned by its yaw), each with
    in / out tangents, a radius (the reach of its speed bonus, bank to bank) and a strength (2 strong, 1 moderate).
