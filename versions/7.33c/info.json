@@ -3,5 +3,13 @@
  "date": "2023-05-13",
  "map_sha1": "ff01e2941d612bb01c823864df4d11a26a6b8a70",
  "manifest": "1821944534345509317",
- "changes": "trees +57 −84"
+ "changes": "trees +57 −84",
+ "grid": {
+  "w": 320,
+  "h": 328,
+  "min_x": -10240.0,
+  "min_y": -10752.0,
+  "edge": 64,
+  "z_river": 0.0
+ }
 }

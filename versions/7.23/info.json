@@ -3,5 +3,13 @@
  "date": "2019-11-26",
  "map_sha1": "c77926584a5f89a502078e568d7bd4db4c519228",
  "manifest": "3361785065259218453",
- "changes": "trees +308 −414; camps moved: 9; camp tiers changed: 2; camp spawn boxes changed: 10; bounty runes moved: 4; power runes moved: 2; outposts +2 −0; Roshan pits moved: 1"
+ "changes": "trees +308 −414; camps moved: 9; camp tiers changed: 2; camp spawn boxes changed: 10; bounty runes moved: 4; power runes moved: 2; outposts +2 −0; Roshan pits moved: 1",
+ "grid": {
+  "w": 260,
+  "h": 260,
+  "min_x": -8320.0,
+  "min_y": -8320.0,
+  "edge": 64,
+  "z_river": 128.0
+ }
 }

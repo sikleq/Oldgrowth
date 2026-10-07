@@ -3,5 +3,13 @@
  "date": "2025-05-21",
  "map_sha1": "d55178101da22b6f7f4beaf4df2f1367b96ebec4",
  "manifest": "2629894201640310929",
- "changes": "trees +290 −297; camps moved: 5; towers moved: 4; watchers moved: 1; lotus pools moved: 2; Roshan pits moved: 2; bounty runes moved: 1"
+ "changes": "trees +290 −297; camps moved: 5; towers moved: 4; watchers moved: 1; lotus pools moved: 2; Roshan pits moved: 2; bounty runes moved: 1",
+ "grid": {
+  "w": 320,
+  "h": 328,
+  "min_x": -10240.0,
+  "min_y": -10752.0,
+  "edge": 64,
+  "z_river": 0.0
+ }
 }

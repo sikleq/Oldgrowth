@@ -3,5 +3,13 @@
  "date": "2025-03-27",
  "map_sha1": "f6860ab2ab40b08e22cc44a5bd7677bd6a895490",
  "manifest": "2641436308841194949",
- "changes": "trees +152 −130; camps moved: 2; towers moved: 1; watchers moved: 1"
+ "changes": "trees +152 −130; camps moved: 2; towers moved: 1; watchers moved: 1",
+ "grid": {
+  "w": 320,
+  "h": 328,
+  "min_x": -10240.0,
+  "min_y": -10752.0,
+  "edge": 64,
+  "z_river": 0.0
+ }
 }

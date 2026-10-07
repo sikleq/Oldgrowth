@@ -3,5 +3,13 @@
  "date": "2025-02-19",
  "map_sha1": "cf2153b02ef1015702d0156232684d247ef55ac8",
  "manifest": "8462328194443705126",
- "changes": "trees +1017 −1052; camps moved: 21; lotus pools moved: 2; twin gates moved: 2; Tormentors moved: 2; bounty runes moved: 2; wisdom shrines +2 −0; wisdom runes +0 −2; outposts +0 −2; watchers +14 −10; Roshan pits moved: 2"
+ "changes": "trees +1017 −1052; camps moved: 21; lotus pools moved: 2; twin gates moved: 2; Tormentors moved: 2; bounty runes moved: 2; wisdom shrines +2 −0; wisdom runes +0 −2; outposts +0 −2; watchers +14 −10; Roshan pits moved: 2",
+ "grid": {
+  "w": 320,
+  "h": 328,
+  "min_x": -10240.0,
+  "min_y": -10752.0,
+  "edge": 64,
+  "z_river": 0.0
+ }
 }

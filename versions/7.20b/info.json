@@ -3,5 +3,13 @@
  "date": "2018-11-20",
  "map_sha1": "9b7c3942d58fe281ca62cf35b84811196a8e91c5",
  "manifest": "3290078767508140123",
- "changes": "camp spawn boxes changed: 1"
+ "changes": "camp spawn boxes changed: 1",
+ "grid": {
+  "w": 260,
+  "h": 260,
+  "min_x": -8320.0,
+  "min_y": -8320.0,
+  "edge": 64,
+  "z_river": 128.0
+ }
 }

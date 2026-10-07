@@ -3,5 +3,13 @@
  "date": "2026-03-24",
  "map_sha1": "7fb22d910bcba121ea5bc823c890fed108bece91",
  "manifest": "5031331375344820717",
- "changes": "trees +324 −304; camps moved: 7; towers moved: 2; watchers moved: 3; lotus pools moved: 2; Tormentors moved: 2; twin gates moved: 2"
+ "changes": "trees +324 −304; camps moved: 7; towers moved: 2; watchers moved: 3; lotus pools moved: 2; Tormentors moved: 2; twin gates moved: 2",
+ "grid": {
+  "w": 320,
+  "h": 328,
+  "min_x": -10240.0,
+  "min_y": -10752.0,
+  "edge": 64,
+  "z_river": 0.0
+ }
 }

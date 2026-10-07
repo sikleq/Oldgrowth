@@ -5,6 +5,14 @@
   "map_sha1": "b6a7bd8f0c75893e72bbf83ae56c74a2912a9d9a",
   "manifest": "8374986332823599631",
   "changes": "the first map file of the history",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2208,
    "ent_dota_fountain": 2,
@@ -50,6 +58,14 @@
   "map_sha1": "2f5217e76fcc6ba0cb7e91d18c346a6b2a42f3bc",
   "manifest": "4722705687870312536",
   "changes": "trees +2 \u22123; towers moved: 2",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2207,
    "ent_dota_fountain": 2,
@@ -140,6 +156,14 @@
   "map_sha1": "1ac7282e47b474fe891a33d6492b9a7ad6c413f0",
   "manifest": "2502957761431665179",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2207,
    "ent_dota_fountain": 2,
@@ -365,6 +389,14 @@
   "map_sha1": "628a5cb78deb96e938949df6a2723d96619a5780",
   "manifest": "4500073631939931004",
   "changes": "trees +1 \u22125; camp spawn boxes changed: 4; towers moved: 2; bounty runes moved: 1; power runes moved: 2",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2203,
    "ent_dota_fountain": 2,
@@ -455,6 +487,14 @@
   "map_sha1": "3a96c1eb0b54d22841de4a08edd9d4417e1769fe",
   "manifest": "7468547993681748607",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2203,
    "ent_dota_fountain": 2,
@@ -545,6 +585,14 @@
   "map_sha1": "d7c38abe71b378d07059020686231272a9cc91a3",
   "manifest": "3084898114967489752",
   "changes": "trees +2 \u22120",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2205,
    "ent_dota_fountain": 2,
@@ -590,6 +638,14 @@
   "map_sha1": "dde129d201cf69b16e5a6a7d0c1a44e3d0f18d03",
   "manifest": "6563034462763279766",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2205,
    "ent_dota_fountain": 2,
@@ -635,6 +691,14 @@
   "map_sha1": "c2f391d2268abc7cdc91c6e0594a7f5b79ce5a22",
   "manifest": "297980454036396430",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2205,
    "ent_dota_fountain": 2,
@@ -725,6 +789,14 @@
   "map_sha1": "4972ab7ee59041ab1b4a7e683861834eccf3d67a",
   "manifest": "4317020349989818782",
   "changes": "trees +414 \u2212412; camps moved: 11; camp tiers changed: 4; camp spawn boxes changed: 14; towers moved: 3; bounty runes moved: 2",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2207,
    "ent_dota_fountain": 2,
@@ -770,6 +842,14 @@
   "map_sha1": "9b7c3942d58fe281ca62cf35b84811196a8e91c5",
   "manifest": "3290078767508140123",
   "changes": "camp spawn boxes changed: 1",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2207,
    "ent_dota_fountain": 2,
@@ -860,6 +940,14 @@
   "map_sha1": "018992e1a8216fb86efceb1bea4a23fe0a5fc850",
   "manifest": "8787295753871824219",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2207,
    "ent_dota_fountain": 2,
@@ -905,6 +993,14 @@
   "map_sha1": "d487c7e03d72e465bf5340e9e7ac45d55c95dff0",
   "manifest": "4083498871851223333",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2207,
    "ent_dota_fountain": 2,
@@ -950,6 +1046,14 @@
   "map_sha1": "688635e8505b8b71de27ff93af61cf851223f450",
   "manifest": "6090187089068875958",
   "changes": "camp tiers changed: 2",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2207,
    "ent_dota_fountain": 2,
@@ -1040,6 +1144,14 @@
   "map_sha1": "8eb1d2b6cdad60be5f068c04b321c3066c3bf624",
   "manifest": "3344424425100102522",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2207,
    "ent_dota_fountain": 2,
@@ -1085,6 +1197,14 @@
   "map_sha1": "939f4e3ea267099341b8f41c9e549bf12f5a0165",
   "manifest": "8373233689554781053",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2207,
    "ent_dota_fountain": 2,
@@ -1130,6 +1250,14 @@
   "map_sha1": "227f96d66666bb97ea5ca02d8be3585ebdac9caf",
   "manifest": "2168385211803155468",
   "changes": "trees +54 \u221253; camps moved: 3; camp spawn boxes changed: 5; towers moved: 1; bounty runes moved: 1",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2208,
    "ent_dota_fountain": 2,
@@ -1400,6 +1528,14 @@
   "map_sha1": "2727e20cdca5cf8e06a1f9400bf8a4ee6cd77724",
   "manifest": "5830529282289460986",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2208,
    "ent_dota_fountain": 2,
@@ -1490,6 +1626,14 @@
   "map_sha1": "c77926584a5f89a502078e568d7bd4db4c519228",
   "manifest": "3361785065259218453",
   "changes": "trees +308 \u2212414; camps moved: 9; camp tiers changed: 2; camp spawn boxes changed: 10; bounty runes moved: 4; power runes moved: 2; outposts +2 \u22120; Roshan pits moved: 1",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2102,
    "ent_dota_fountain": 2,
@@ -1625,6 +1769,14 @@
   "map_sha1": "89ec0348e81e292a9bd6a5553e571cefd4803e78",
   "manifest": "1972962659332920928",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2102,
    "ent_dota_fountain": 2,
@@ -1715,6 +1867,14 @@
   "map_sha1": "36051a202c3b9bd7358d69121d72f2a9bfedc742",
   "manifest": "7995050577514036443",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2102,
    "ent_dota_fountain": 2,
@@ -1760,6 +1920,14 @@
   "map_sha1": "9da06ad40e8ab36330b55b3387df7dbe716ca5e7",
   "manifest": "8039860836484865639",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2102,
    "ent_dota_fountain": 2,
@@ -1805,6 +1973,14 @@
   "map_sha1": "0af1f34e7b40b7d325003e17c925efdc4866ce67",
   "manifest": "3516261167327059577",
   "changes": "trees +51 \u221246; camps moved: 1; camp spawn boxes changed: 1; bounty runes moved: 2; outposts moved: 2",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2107,
    "ent_dota_fountain": 2,
@@ -1850,6 +2026,14 @@
   "map_sha1": "630cef1a44a348b6fe719d8acd4d6cc3ba4f6e8d",
   "manifest": "8477105125450162805",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2107,
    "ent_dota_fountain": 2,
@@ -1895,6 +2079,14 @@
   "map_sha1": "4e3fa1236e3e650e7dbd3f7a771e954df27af74d",
   "manifest": "9131265334375232740",
   "changes": "trees moved: 4",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 128.0
+  },
   "counts": {
    "ent_dota_tree": 2107,
    "ent_dota_fountain": 2,
@@ -2255,6 +2447,14 @@
   "map_sha1": "d89fa97add64c691937514bd22a1f92ee6fe7bba",
   "manifest": "851122828342522204",
   "changes": "trees +5 \u22126; camps moved: 1; camp tiers changed: 5; camp spawn boxes changed: 3",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2106,
    "ent_dota_fountain": 2,
@@ -2480,6 +2680,14 @@
   "map_sha1": "13fc024c34cb1ecb24a58858cd2f985a0665e114",
   "manifest": "8455790916209120921",
   "changes": "trees +1 \u22123",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2104,
    "ent_dota_fountain": 2,
@@ -2570,6 +2778,14 @@
   "map_sha1": "223003cd8ae9497049df7cf85b43fb03be9282e5",
   "manifest": "8445858240915213751",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2104,
    "ent_dota_fountain": 2,
@@ -2615,6 +2831,14 @@
   "map_sha1": "09b9bd61b1ae49b2eec83107c92a3284a4ded712",
   "manifest": "3803245767943829131",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2104,
    "ent_dota_fountain": 2,
@@ -2660,6 +2884,14 @@
   "map_sha1": "4859e1328522b2e3ac6444aa70527b0967fba515",
   "manifest": "5653628556015868344",
   "changes": "trees +734 \u2212548; camps moved: 15; camp tiers changed: 2; camp spawn boxes changed: 16; towers moved: 5; bounty runes +1 \u22123; power runes moved: 2; outposts moved: 2",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2290,
    "ent_dota_fountain": 2,
@@ -2705,6 +2937,14 @@
   "map_sha1": "77f8998ad5f669f27ae42fa990ce9dd20640540f",
   "manifest": "7998876380466766744",
   "changes": "trees +5 \u221210",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2285,
    "ent_dota_fountain": 2,
@@ -2750,6 +2990,14 @@
   "map_sha1": "ae17bb726b28eacbcbfd626025615d0460e5d606",
   "manifest": "4072555761068437795",
   "changes": "trees +6 \u22125",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2286,
    "ent_dota_fountain": 2,
@@ -2795,6 +3043,14 @@
   "map_sha1": "fdf5815a801358397c213800079002e64cf64d0f",
   "manifest": "5334525149413882275",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2286,
    "ent_dota_fountain": 2,
@@ -3065,6 +3321,14 @@
   "map_sha1": "2824d0656cc1db88645c4e58f393f1fb3328adee",
   "manifest": "4987536099611320906",
   "changes": "trees +4 \u22120; towers moved: 2; bounty runes moved: 2",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2290,
    "ent_dota_fountain": 2,
@@ -3200,6 +3464,14 @@
   "map_sha1": "3b93a54399d3ea059de75b582fbb75035cb4cf69",
   "manifest": "1035888505695048109",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2290,
    "ent_dota_fountain": 2,
@@ -3245,6 +3517,14 @@
   "map_sha1": "7aa576093de6edded17f422b18ab67785f66b852",
   "manifest": "2157169133715558323",
   "changes": "trees +57 \u221244; camps +0 \u22122; camp spawn boxes +1 \u22123; bounty runes moved: 1; outposts moved: 1",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2303,
    "ent_dota_fountain": 2,
@@ -3290,6 +3570,14 @@
   "map_sha1": "187475a2fe64871346efcf60d3feb601f3531c94",
   "manifest": "4471909354740606244",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2303,
    "ent_dota_fountain": 2,
@@ -3425,6 +3713,14 @@
   "map_sha1": "ff89b0d9ff26ecb72408b1816d6bda264568539c",
   "manifest": "8392371148848500072",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 260,
+   "h": 260,
+   "min_x": -8320.0,
+   "min_y": -8320.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2303,
    "ent_dota_fountain": 2,
@@ -3470,6 +3766,14 @@
   "map_sha1": "6249be51486df74a2cd0bab97f7ffca956a9a4a1",
   "manifest": "7316697368872006602",
   "changes": "trees +1838 \u22121578; camps +24 \u221212; camp tiers changed: 3; camp spawn boxes +24 \u221212; towers moved: 3; lotus pools +2 \u22120; twin gates +2 \u22120; Tormentors +2 \u22120; bounty runes moved: 2; wisdom runes +2 \u22120; outposts +4 \u22122; watchers +8 \u22120; Roshan pits +2 \u22121",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2563,
    "ent_dota_fountain": 2,
@@ -3515,6 +3819,14 @@
   "map_sha1": "04af1613f78171b84e270704e26840b9f37e3a10",
   "manifest": "334700272716035676",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2563,
    "ent_dota_fountain": 2,
@@ -3560,6 +3872,14 @@
   "map_sha1": "ff01e2941d612bb01c823864df4d11a26a6b8a70",
   "manifest": "1821944534345509317",
   "changes": "trees +57 \u221284",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2536,
    "ent_dota_fountain": 2,
@@ -3695,6 +4015,14 @@
   "map_sha1": "e4712e676f6bc7964e1ef2dc4ad0689ad27c64be",
   "manifest": "1623199270309369709",
   "changes": "trees +0 \u22121; outposts moved: 2; watchers moved: 4",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2535,
    "ent_dota_fountain": 2,
@@ -3785,6 +4113,14 @@
   "map_sha1": "825b4fa419fe625408250604b9fcaf3e5783f290",
   "manifest": "3396415381947306478",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2535,
    "ent_dota_fountain": 2,
@@ -3830,6 +4166,14 @@
   "map_sha1": "689ba8d2cab9edd55ca883c3df91fe51ecc0c508",
   "manifest": "8904282236848981296",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2535,
    "ent_dota_fountain": 2,
@@ -3920,6 +4264,14 @@
   "map_sha1": "0fbe84fbfa1bb2fad437af2c7b3b0d2d4fd2884f",
   "manifest": "9004772470755785297",
   "changes": "trees +0 \u22124; watchers +2 \u22120",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2531,
    "ent_dota_fountain": 2,
@@ -4010,6 +4362,14 @@
   "map_sha1": "29af3d9b95b83771a36319379ed6880ee7c76468",
   "manifest": "1178869607689986851",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2531,
    "ent_dota_fountain": 2,
@@ -4100,6 +4460,14 @@
   "map_sha1": "35eaa4452833a52da12a1aa7f4c258d07f0a0d92",
   "manifest": "1968967476504743697",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2531,
    "ent_dota_fountain": 2,
@@ -4370,6 +4738,14 @@
   "map_sha1": "caeeeb2b4e2d90debc9a0e7351278fe7da11f54d",
   "manifest": "369883521377495806",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2531,
    "ent_dota_fountain": 2,
@@ -4415,6 +4791,14 @@
   "map_sha1": "7ae179cb75db8e70a533263769bfa27ed8ed002a",
   "manifest": "8847854937965775036",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2531,
    "ent_dota_fountain": 2,
@@ -4460,6 +4844,14 @@
   "map_sha1": "7216d111ee7fff178a74d59469bc0e47cdf2dd1e",
   "manifest": "1345310537450616963",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2531,
    "ent_dota_fountain": 2,
@@ -4505,6 +4897,14 @@
   "map_sha1": "cf2153b02ef1015702d0156232684d247ef55ac8",
   "manifest": "8462328194443705126",
   "changes": "trees +1017 \u22121052; camps moved: 21; lotus pools moved: 2; twin gates moved: 2; Tormentors moved: 2; bounty runes moved: 2; wisdom shrines +2 \u22120; wisdom runes +0 \u22122; outposts +0 \u22122; watchers +14 \u221210; Roshan pits moved: 2",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2496,
    "ent_dota_fountain": 2,
@@ -4550,6 +4950,14 @@
   "map_sha1": "d92126dba32cfc55a7ded774d457b02777c9a1b2",
   "manifest": "8439401535729883069",
   "changes": "trees +2 \u221211",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2487,
    "ent_dota_fountain": 2,
@@ -4595,6 +5003,14 @@
   "map_sha1": "f6860ab2ab40b08e22cc44a5bd7677bd6a895490",
   "manifest": "2641436308841194949",
   "changes": "trees +152 \u2212130; camps moved: 2; towers moved: 1; watchers moved: 1",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2509,
    "ent_dota_fountain": 2,
@@ -4640,6 +5056,14 @@
   "map_sha1": "d55178101da22b6f7f4beaf4df2f1367b96ebec4",
   "manifest": "2629894201640310929",
   "changes": "trees +290 \u2212297; camps moved: 5; towers moved: 4; watchers moved: 1; lotus pools moved: 2; Roshan pits moved: 2; bounty runes moved: 1",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2502,
    "ent_dota_fountain": 2,
@@ -4685,6 +5109,14 @@
   "map_sha1": "851928c556c1b850980be838926810c5e97f4f28",
   "manifest": "6066654591539511380",
   "changes": "trees +38 \u221227; camps moved: 2; towers moved: 1; watchers moved: 1",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2513,
    "ent_dota_fountain": 2,
@@ -4730,6 +5162,14 @@
   "map_sha1": "2fcec6172906eef9068c21f2acd08ff330a7167f",
   "manifest": "5802946655304412603",
   "changes": "watchers moved: 2",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2513,
    "ent_dota_fountain": 2,
@@ -4775,6 +5215,14 @@
   "map_sha1": "64e32b26d20e32419698917cc4eef4afcbc04048",
   "manifest": "5211302222383845406",
   "changes": "trees +0 \u22123",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2510,
    "ent_dota_fountain": 2,
@@ -4820,6 +5268,14 @@
   "map_sha1": "4346552dc6abfb48c71b3ecb11f860aeb6c4bfc9",
   "manifest": "5524701880238291556",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2510,
    "ent_dota_fountain": 2,
@@ -4865,6 +5321,14 @@
   "map_sha1": "cb69e349d9852f3d0fb9ba2c6088ca1472b7cae7",
   "manifest": "657808123125198041",
   "changes": "trees +239 \u2212293; camps moved: 9; towers moved: 1; watchers +4 \u22128; wisdom shrines moved: 2",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2456,
    "ent_dota_fountain": 2,
@@ -4955,6 +5419,14 @@
   "map_sha1": "e84183fb2b404e27bc44a9f5ca2ec7f16da813dd",
   "manifest": "2751433468835230983",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2456,
    "ent_dota_fountain": 2,
@@ -5000,6 +5472,14 @@
   "map_sha1": "7fb22d910bcba121ea5bc823c890fed108bece91",
   "manifest": "5031331375344820717",
   "changes": "trees +324 \u2212304; camps moved: 7; towers moved: 2; watchers moved: 3; lotus pools moved: 2; Tormentors moved: 2; twin gates moved: 2",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2476,
    "ent_dota_fountain": 2,
@@ -5045,6 +5525,14 @@
   "map_sha1": "dbb3027e0eae72b820fbd35d18b9626af9671aac",
   "manifest": "2960611227574981839",
   "changes": "trees +0 \u22121",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2475,
    "ent_dota_fountain": 2,
@@ -5135,6 +5623,14 @@
   "map_sha1": "0b5a09de5060e5f4375f2cab54cde4294f52e09a",
   "manifest": "6396724758220161775",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2475,
    "ent_dota_fountain": 2,
@@ -5180,6 +5676,14 @@
   "map_sha1": "9b4ca69f269a5a1b973f59d6f0046becc69d187f",
   "manifest": "1040802349507626184",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2475,
    "ent_dota_fountain": 2,
@@ -5225,6 +5729,14 @@
   "map_sha1": "f049eadfa145a180f68ebe1f55da4ace8298bdc7",
   "manifest": "8405633108885859992",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2475,
    "ent_dota_fountain": 2,
@@ -5270,6 +5782,14 @@
   "map_sha1": "412137a154d86cd4ba61da98692a5fb15e1cb79a",
   "manifest": "3074137983983757042",
   "changes": "no object moved (the map file still changed)",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
   "counts": {
    "ent_dota_tree": 2475,
    "ent_dota_fountain": 2,

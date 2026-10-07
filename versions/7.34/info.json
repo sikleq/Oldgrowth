@@ -3,5 +3,13 @@
  "date": "2023-08-08",
  "map_sha1": "e4712e676f6bc7964e1ef2dc4ad0689ad27c64be",
  "manifest": "1623199270309369709",
- "changes": "trees +0 −1; outposts moved: 2; watchers moved: 4"
+ "changes": "trees +0 −1; outposts moved: 2; watchers moved: 4",
+ "grid": {
+  "w": 320,
+  "h": 328,
+  "min_x": -10240.0,
+  "min_y": -10752.0,
+  "edge": 64,
+  "z_river": 0.0
+ }
 }

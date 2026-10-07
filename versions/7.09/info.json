@@ -3,5 +3,13 @@
  "date": "2018-02-15",
  "map_sha1": "2f5217e76fcc6ba0cb7e91d18c346a6b2a42f3bc",
  "manifest": "4722705687870312536",
- "changes": "trees +2 −3; towers moved: 2"
+ "changes": "trees +2 −3; towers moved: 2",
+ "grid": {
+  "w": 260,
+  "h": 260,
+  "min_x": -8320.0,
+  "min_y": -8320.0,
+  "edge": 64,
+  "z_river": 128.0
+ }
 }

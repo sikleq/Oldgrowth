@@ -13,6 +13,11 @@ versions/<patch>/mapdata.json  every map object with its position, read from the
                                lane creep paths, river currents (spline, radius and strength of each node), shop,
                                no-ward and Roshan pit zones, hero and courier spawn points
 versions/<patch>/entities.json.gz  the map file's FULL entity list as decompiled, every class and key
+versions/<patch>/gridnav.bin.gz    the map's walk grid (maps/dota.gnv cells: bit 0 walkable, bit 4 no wards,
+                                   20 = the void beyond the map)
+versions/<patch>/elev.bin.gz       the height level of each cell (0 = river, +1 per 128 units, 255 = no ground)
+versions/<patch>/fow.bin.gz        1 in each cell holding a vision blocker node, else 0
+                                   (all three: uint8, row by row from the grid's min_y, w × h of info.json "grid")
 versions/<patch>/info.json     the patch's date and the exact map file it shipped
 versions.json                  all of the above in one table
 tiles/<patch>/<row>_<col>.webp the map at 8192 × 8192 in 16 × 16 tiles, for zooming in (Sloppy's Terrain pages
@@ -52,10 +57,16 @@ When a patch shipped the very same map file as an earlier one, its folder holds 
    (`dota_movespeed_modifier_path`) is a spline of nodes in the entity's own frame (turned by its yaw), each with
    in / out tangents, a radius (the reach of its speed bonus, bank to bank) and a strength (2 strong, 1 moderate).
    `entities.json.gz` keeps everything else too, as Source2Viewer gives it (`_lump` names the entity lump).
+4. **The grids.** One 64-unit cell grid per map file, taken from its `maps/dota.gnv` header (before 7.33
+   260 × 260 from (−8320, −8320), since 7.33 320 × 328 from (−10240, −10752)); `info.json` "grid" gives
+   `w`, `h`, `min_x`, `min_y`, `edge` and `z_river`. Heights: the highest point of the map's physics surface
+   (`world_physics`, its "physics_group" mesh) over each cell's centre; the river is the lowest 128-unit layer that
+   covers at least 1 % of the ground, and each cell's level is its height above it in steps of 128. Vision blockers:
+   the cells of the `ent_fow_blocker_node` entities of the main entity lump.
 
 The scripts are in [sikleq/Sloppy](https://github.com/sikleq/Sloppy) — `scripts/gen/map_history.py`,
 `scripts/gen/stitch_sfm.py`, `scripts/gen/mend_map.py`, `scripts/gen/extract_map_entities.py`,
-`scripts/gen/oldgrowth_mapdata.py` — and the method is
+`scripts/gen/oldgrowth_mapdata.py`, `scripts/gen/map_grids.py` — and the method is
 written up in its `docs/terrain.md`. Sloppy's Terrain pages compare every patch's map with the one before it.
 
 ## Thanks

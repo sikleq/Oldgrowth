@@ -3,5 +3,13 @@
  "date": "2026-05-06",
  "map_sha1": "0b5a09de5060e5f4375f2cab54cde4294f52e09a",
  "manifest": "6396724758220161775",
- "changes": "no object moved (the map file still changed)"
+ "changes": "no object moved (the map file still changed)",
+ "grid": {
+  "w": 320,
+  "h": 328,
+  "min_x": -10240.0,
+  "min_y": -10752.0,
+  "edge": 64,
+  "z_river": 0.0
+ }
 }
