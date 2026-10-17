@@ -5828,5 +5828,58 @@
     "3": 2
    }
   }
+ },
+ {
+  "patch": "7.41f-1007",
+  "date": "2026-10-07",
+  "map_sha1": "0845387f16e1cadbc9e4cfcf309480bc93825bc2",
+  "manifest": "3225159009864329042",
+  "changes": "client update of 2026-10-07 inside 7.41f (no patch notes): no tree, building or zone moved; 35 walkable cells at the right map edge (x 8384-8576, y -3200 to -2688) one height level lower; world particles: 1 removed, 2 added",
+  "grid": {
+   "w": 320,
+   "h": 328,
+   "min_x": -10240.0,
+   "min_y": -10752.0,
+   "edge": 64,
+   "z_river": 0.0
+  },
+  "counts": {
+   "ent_dota_tree": 2475,
+   "ent_dota_fountain": 2,
+   "ent_dota_shop": 4,
+   "npc_dota_fort": 2,
+   "npc_dota_watch_tower": 2,
+   "npc_dota_lantern": 10,
+   "npc_dota_unit_twin_gate": 2,
+   "npc_dota_xp_fountain": 2,
+   "npc_dota_lotus_pool": 2,
+   "npc_dota_mango_tree": 0,
+   "npc_dota_healer": 0,
+   "dota_item_rune_spawner_bounty": 2,
+   "dota_item_rune_spawner_powerup": 2,
+   "dota_item_rune_spawner_xp": 0,
+   "npc_dota_tower": 22,
+   "npc_dota_barracks": 12,
+   "npc_dota_filler": 14,
+   "npc_dota_neutral_spawner": 28,
+   "npc_dota_roshan_spawner": 2,
+   "npc_dota_miniboss_spawner": 2,
+   "trigger_multiple": 28,
+   "path_corner": 62,
+   "npc_dota_spawner": 6,
+   "dota_movespeed_modifier_path": 5,
+   "trigger_no_wards": 7,
+   "trigger_shop": 8,
+   "trigger_boss_attackable": 2,
+   "info_player_start": 10,
+   "info_courier_spawn": 12,
+   "ent_dota_neutral_item_stash": 2,
+   "camps_by_type": {
+    "0": 6,
+    "1": 14,
+    "2": 6,
+    "3": 2
+   }
+  }
  }
 ]

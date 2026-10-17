@@ -1,0 +1,15 @@
+{
+ "patch": "7.41f-1007",
+ "date": "2026-10-07",
+ "map_sha1": "0845387f16e1cadbc9e4cfcf309480bc93825bc2",
+ "manifest": "3225159009864329042",
+ "changes": "client update of 2026-10-07 inside 7.41f (no patch notes): no tree, building or zone moved; 35 walkable cells at the right map edge (x 8384-8576, y -3200 to -2688) one height level lower; world particles: 1 removed, 2 added",
+ "grid": {
+  "w": 320,
+  "h": 328,
+  "min_x": -10240.0,
+  "min_y": -10752.0,
+  "edge": 64,
+  "z_river": 0.0
+ }
+}
