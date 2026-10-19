@@ -20,12 +20,14 @@ versions/<patch>/fow.bin.gz        1 in each cell holding a vision blocker node,
                                    (all three: uint8, row by row from the grid's min_y, w × h of info.json "grid")
 versions/<patch>/info.json     the patch's date and the exact map file it shipped
 versions.json                  all of the above in one table
-tiles/<patch>/<row>_<col>.webp the map at 8192 × 8192 in 16 × 16 tiles, for zooming in (Sloppy's Terrain pages
-                               load them from https://sikleq.github.io/Oldgrowth/)
+tiles/<patch>/<row>_<col>.webp the map at 8192 × 8192 in 16 × 16 tiles, for zooming in, one set per map file
+                               (Sloppy's Terrain pages load them from https://sikleq.github.io/Oldgrowth/)
 ```
 
 Full-size pictures (about 10000 × 10400, 2 game units per pixel) are attached to the
-[releases](https://github.com/sikleq/Oldgrowth/releases), one per patch, to keep the repository small.
+[releases](https://github.com/sikleq/Oldgrowth/releases), one per patch, to keep the repository small:
+`map_<patch>_full.webp` as the game draws it, and `map_<patch>_stumps_full.webp` with every tree replaced
+by its stump, so the ground under the trees shows.
 
 When a patch shipped the very same map file as an earlier one, its folder holds only `info.json`, and
 `versions.json` says which patch it matches (`same_as`).
