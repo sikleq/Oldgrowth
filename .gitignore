@@ -1,2 +1,4 @@
 __pycache__/
 *.png
+# local map store (Valve map files, entity lists): Sloppy scripts read it, never pushed
+store/
