@@ -1,0 +1,15 @@
+{
+ "patch": "7.42-1118",
+ "date": "2026-11-18",
+ "map_sha1": "0d7217cc10f1b214da0232c58428ce53ec11a665",
+ "manifest": "7575948198434017949",
+ "changes": "client update of 2026-11-18 inside 7.42, hours after the patch (no patch notes): one tree removed at the Dire base (x 5824, y 6848); 2 walk-grid cells beside it swapped (one opened, one blocked) and 3 cells there one height level higher; nothing else moved",
+ "grid": {
+  "w": 320,
+  "h": 328,
+  "min_x": -10240.0,
+  "min_y": -10752.0,
+  "edge": 64,
+  "z_river": 0.0
+ }
+}
