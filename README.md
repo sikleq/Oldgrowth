@@ -58,6 +58,8 @@ When a patch shipped the very same map file as an earlier one, its folder holds 
    Lane paths follow each creep spawner's chain of `path_corner`s. A river current
    (`dota_movespeed_modifier_path`) is a spline of nodes in the entity's own frame (turned by its yaw), each with
    in / out tangents, a radius (the reach of its speed bonus, bank to bank) and a strength (2 strong, 1 moderate).
+   The same entity with `pathnodenpctype` 1 is not a current: 7.42 added one such path a lane, base to base, for
+   lane creeps (off it a creep is slowed); those are listed apart as `lane_creep_movespeed_path` (`npc` 1).
    `entities.json.gz` keeps everything else too, as Source2Viewer gives it (`_lump` names the entity lump).
 4. **The grids.** One 64-unit cell grid per map file, taken from its `maps/dota.gnv` header (before 7.33
    260 × 260 from (−8320, −8320), since 7.33 320 × 328 from (−10240, −10752)); `info.json` "grid" gives
